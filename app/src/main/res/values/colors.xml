@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Itemselectedcolor">#2AE7FF</color>
+    <color name="ItemUnselectedcolor">#1489E6</color>
+
+    <color name="HomeFragmentBg">#AB8CE4</color>
+    <color name="ProfileFragmentBg">#C8471F</color>
+    <color name="SearchFragmentBg">#5B901E</color>
+</resources>
